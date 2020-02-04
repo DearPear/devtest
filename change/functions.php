@@ -13,7 +13,6 @@ function change($valeur){
     $piece2 = 0;
 
 
-    return false;
     return array("billet10" => $billet10, "billet5" => $billet5, "piece2" => $piece2);
 }
 
